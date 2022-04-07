@@ -2,4 +2,4 @@ pastry x 3
 ketchup x 2
 fruit x 15
 bread x 1
-chocolate x 2
+chocolate x 4
