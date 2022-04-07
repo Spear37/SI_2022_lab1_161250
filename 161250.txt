@@ -1,0 +1,14 @@
+git clone - koristeno za prezemanje na kopija na repozotorijata shto postoi na github
+creiranje na shopping_list.txt so 5 razlichni proizvodi, pravenje na commit so poraka
+menuvanje na txt filost so dodavanje na kolicini, pravenja na commit so paraka
+
+creiranje na dve branches so iminja branch1, branch2
+
+chechout na branch1, promena na txt dokumentot kolicina za #5, commit so poraka. synchronise to repository
+checkout na master, promena na txt dokumentot kolicina na #2, commit so poraka. synchronise to repository
+checkout na branch2, promena na txt dokumentot ime na #4, commit.
+ammend prior commit, promena na txt dokument dodavanje na #6, commit so poraka.
+
+checkout master, local merge with branch1 using recursive method.
+attempt merge with branch2, merge conflict over contents of shopping_list.txt
+
