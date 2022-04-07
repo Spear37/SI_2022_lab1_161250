@@ -1,5 +1,6 @@
 pastry x 3
 ketchup x 2
 fruit x 15
-bread x 1
-chocolate x 2
+fish x 1
+chocolate x 4
+eggs x 30
